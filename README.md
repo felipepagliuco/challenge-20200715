@@ -6,7 +6,7 @@ Os resultados destas tarefas são menos importantes do que o seu processo de pen
 
 ## Desafio
 
-Neste desafio realizaremos aplicaremos os conceitos de teste caixa preta, onde testaremos a página Beta da [Coodesh](https://beta.coodesh.com/) em vários aspectos como por exemplo:
+Neste desafio aplicaremos os conceitos de teste caixa preta, onde testaremos a página Beta da [Coodesh](https://beta.coodesh.com/) em vários aspectos como por exemplo:
 
 - Se a home carrega correcta
 - Se a página de vagas tem resultados
