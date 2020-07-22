@@ -2,7 +2,7 @@
 
 Por favor, complete o seguinte desafio para a sua entrevista online. Terá de documentar o seu processo e apresentá-lo na entrevista (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado durante a entrevista técnica.
 
-Os resultados destas tarefas são menos importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
+Os resultados destas tarefas são menos importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar as suas hipóteses e decisões na medida do possível.
 
 ## Desafio
 
