@@ -23,11 +23,11 @@ Para realizar o teste podemos escolher entre os 3 frameworks de teste:
 
 Explicar o por quê da escolha, as vantagens e desvantagens dos que não foram escolhidos.
 
-## Parte 2 - Mão as Obra
+## Parte 2 - Mãos à Obra
 
 Nesse parte teremos que desenvolver um projeto para testar vários aspectos da página Beta da Coodesh:
 
-- https://beta.coodesh.com/
+- https://coodesh.com/
 
 
 Testes para aplicar:
@@ -36,9 +36,9 @@ Testes para aplicar:
 
 2- Navegar pela página e ir ao sistema de vagas no menú superior;
 
-3- Um vez na tela de vagas, nosso sistema de teste automatizado terá que buscar pela vaga de `Vue.js` onde terá um resultado;
+3- Um vez na tela de vagas, nosso sistema de teste automatizado terá que buscar pela empresa de `VipCommerce` onde terá um ou mais resultados;
 
-4- Traz obter o resultado, deveremos navegar abrir a vaga e revisar se o carregamento é realizado com sucesso ou não;
+4- Depois obter o resultado, deveremos abrir a vaga e revisar se o carregamento é realizado com sucesso ou não;
 
 5- Por último, precisamos saber se o sistema de canditar está funcionando e para isso é necessário clicar no botão `Candidatar-se` e revisar se abriu o modal corretamente.
 
