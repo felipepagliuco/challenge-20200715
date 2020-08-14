@@ -1,6 +1,0 @@
----
-  default: -p prod -p html -p pretty
-  prod: ENV_TYPE=prod
-  html: --format html --out=log/report.html
-  pretty: --format pretty
-  
