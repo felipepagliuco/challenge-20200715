@@ -1,0 +1,5 @@
+Runner/Runner.class
+StepDefinitions/vagasSteps.class
+StepDefinitions/homeSteps.class
+pages/Vagas.class
+pages/Home.class

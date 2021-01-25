@@ -1,0 +1,8 @@
+/.idea/
+#language:pt
+Funcionalidade: Buscar Carros e Motos por Marca,Modelo e Versao
+
+  Cenario: Buscar carros selecionando somente pela Marca
+    Dado que deseje realizar uma busca avançada de carros em estoque
+    E selecione a Marca "Honda"
+    Entao sera apresentado o resultado das buscas com a mensagem no titulo da busca "Honda Novos e Usados"
