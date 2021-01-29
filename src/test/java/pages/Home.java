@@ -32,6 +32,7 @@ public class Home {
         private WebElement linkSistemaVagas;
 
         public void clickLinkSistemaVagas(){
+
             linkSistemaVagas.click();
         }
 

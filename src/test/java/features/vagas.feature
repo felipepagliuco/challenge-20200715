@@ -5,7 +5,7 @@ Funcionalidade: Busca e candidatura de vagas
   Dado que esteja na tela de vagas
   Quando buscar pela empresa "VipCommerce"
   Então deverá ser apresentado "3" resultados contendo os titulos
-    | Analista QA(Júnior ou Pleno)   |
+    | Scrum Master (Remoto)   |
     | DevOps (100% remote) |
     | Fullstack Developer |
 

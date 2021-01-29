@@ -146,7 +146,9 @@ public class Vagas {
     public void buscaPorEmpresa(String empresa) {
         WebElement firstResult = new WebDriverWait(driver, 4)
                 .until(ExpectedConditions.visibilityOf(campoBuscaCargo));
+
         campoBuscaCargo.click();
+
         TypeInField(empresa, campoBuscaCargo);
         btnEncontrar.click();
     }

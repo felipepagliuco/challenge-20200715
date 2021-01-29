@@ -17,13 +17,13 @@ import static org.junit.Assert.assertEquals;
 public class vagasSteps {
 
 
-    ProfilesIni profile = new ProfilesIni();
-    FirefoxProfile myprofile = profile.getProfile("automacao");
-
-    FirefoxOptions firefoxOptions = new FirefoxOptions();
-    FirefoxDriver driver = new FirefoxDriver(firefoxOptions.setProfile(myprofile));
-    //ChromeDriver driver = new ChromeDriver();
-    //FirefoxDriver driver = new FirefoxDriver();
+//    ProfilesIni profile = new ProfilesIni();
+//    FirefoxProfile myprofile = profile.getProfile("automacao");
+//
+//    FirefoxOptions firefoxOptions = new FirefoxOptions();
+//    FirefoxDriver driver = new FirefoxDriver(firefoxOptions.setProfile(myprofile));
+//    //ChromeDriver driver = new ChromeDriver();
+    FirefoxDriver driver = new FirefoxDriver();
     Vagas vagas = new Vagas(driver);
 
     @Dado("que esteja na tela de vagas")
